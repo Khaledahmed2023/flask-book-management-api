@@ -13,7 +13,7 @@ This is a Flask-based RESTful API for managing books and their reviews.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/flask-book-management-api.git
+   git clone https://github.com/khaledahmed2023/flask-book-management-api.git
    ```
 
 2. Install dependencies:
